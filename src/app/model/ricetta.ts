@@ -5,4 +5,4 @@ export interface Ricetta {
 
     id: number;
     nome: string;
-}
+} 
